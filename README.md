@@ -137,7 +137,7 @@ I implemented this step in 12th code cell of Ipython notebook in `Advanced_Lane_
 
 Here's a [link to my video result](./video/project_video_output.mp4)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vq4V2Qx3N-A/0.jpg)](https://www.youtube.com/watch?v=vq4V2Qx3N-A)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p5B2-jFyc8Y/0.jpg)](https://www.youtube.com/watch?v=p5B2-jFyc8Y)
 
 ---
 

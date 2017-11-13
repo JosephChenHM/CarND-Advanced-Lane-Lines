@@ -136,7 +136,9 @@ I implemented this step in 12th code cell of Ipython notebook in `Advanced_Lane_
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 Here's a [link to my video result](./video/project_video_output.mp4)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vq4V2Qx3N-A/0.jpg)](https://www.youtube.com/watch?v=vq4V2Qx3N-A)
+
 ---
 
 ### Discussion
